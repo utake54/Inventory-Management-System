@@ -1,0 +1,12 @@
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\Inventory.ModelDTO.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\Inventory.ModelDTO.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\obj\Debug\Inventory.ModelDTO.csproj.AssemblyReference.cache
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\obj\Debug\Inventory.ModelDTO.csproj.CoreCompileInputs.cache
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\obj\Debug\Inventory.ModelDTO.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\obj\Debug\Inventory.ModelDTO.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\Inventory.ModelDTO.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\EntityFramework.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\EntityFramework.xml
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\obj\Debug\Inventory.ModelDTO.csproj.CopyComplete
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.ModelDTO\bin\Debug\EntityFramework.SqlServer.xml

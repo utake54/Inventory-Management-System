@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace Inventory.MVC.Controllers
 {
+    [RoutePrefix("Category")]
     public class CategoryController : Controller
     {
         private readonly ICategoryService _categoryService;
@@ -16,13 +17,13 @@ namespace Inventory.MVC.Controllers
         {
             _categoryService = categoryService;
         }
-        // GET: Inventory
+        [Route("AllCategories")]
         public async Task<ActionResult> CategoryList()
         {
             var data = await _categoryService.GetAllCategories();
             return View(data);
         }
-
+        [Route("AddNew")]
         public ActionResult AddNewCategory()
         {
             return View();
@@ -33,7 +34,7 @@ namespace Inventory.MVC.Controllers
             await _categoryService.AddCategory(category);
             return RedirectToAction("CategoryList");
         }
-
+        [Route("Edit")]
         public async Task<ActionResult> EditCategory(int id)
         {
             var category = await _categoryService.GetCategoryById(id);
@@ -46,7 +47,7 @@ namespace Inventory.MVC.Controllers
             await _categoryService.EditCategory(category);
             return RedirectToAction("CategoryList");
         }
-
+        [Route("Delete")]
         public async Task<ActionResult> DeleteCategory(int id)
         {
             var category = await _categoryService.GetCategoryById(id);
@@ -58,8 +59,5 @@ namespace Inventory.MVC.Controllers
             await _categoryService.DeleteCategory(id, category);
             return RedirectToAction("CategoryList");
         }
-
-
-
     }
 }

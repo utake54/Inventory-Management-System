@@ -31,8 +31,13 @@ C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\o
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.initial.resources
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.Databasenamechange.resources
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.NewValidations.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.Usertable.resources
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.csproj.GenerateResource.cache
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.csproj.CoreCompileInputs.cache
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.csproj.CopyComplete
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.DatatypeChanged.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.RoleTable.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.RoleTableModified.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.RoleTableModifieds.resources

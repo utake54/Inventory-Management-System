@@ -55,6 +55,7 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
@@ -140,8 +141,11 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\UnityConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -189,6 +193,10 @@
     <Content Include="Views\Category\CategoryList.cshtml" />
     <Content Include="Views\Category\EditCategory.cshtml" />
     <Content Include="Views\Category\DeleteCategory.cshtml" />
+    <Content Include="Views\User\SignUp.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_HomeLayout.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -211,6 +219,10 @@
       <Project>{6d97adb7-994d-4454-be34-8bd24fb15aff}</Project>
       <Name>Inventory.Database</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Inventory.ModelDTO\Inventory.ModelDTO.csproj">
+      <Project>{29b6a197-e1f4-40a0-8499-385cb0374b74}</Project>
+      <Name>Inventory.ModelDTO</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Inventory.Model\Inventory.Model.csproj">
       <Project>{75e8e5a7-346b-4768-86f1-ca662717b473}</Project>
       <Name>Inventory.Model</Name>
@@ -218,6 +230,10 @@
     <ProjectReference Include="..\Inventory.Services\Inventory.Services.csproj">
       <Project>{44c3ec24-bd04-415b-8bd3-e06335e5b83f}</Project>
       <Name>Inventory.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Inventory.Utilities\Inventory.Utilities.csproj">
+      <Project>{1d07b799-d0ce-428b-9e33-7bac8f07f8ae}</Project>
+      <Name>Inventory.Utilities</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

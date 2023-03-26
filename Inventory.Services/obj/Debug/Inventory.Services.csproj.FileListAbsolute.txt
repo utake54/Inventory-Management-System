@@ -28,3 +28,6 @@ C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\o
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.CopyComplete
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Services.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\EntityFramework.SqlServer.xml

@@ -96,8 +96,6 @@ C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.MVC\bin\Inventory.
 C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.MVC\bin\Unity.Abstractions.pdb
 C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.MVC\bin\Unity.Container.pdb
-C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.dll
-C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.pdb
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.MVC.dll.config
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.MVC.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.MVC.pdb
@@ -155,7 +153,9 @@ C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\En
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\EntityFramework.SqlServer.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Database.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Model.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.ModelDTO.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Services.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Utilities.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Newtonsoft.Json.dll
@@ -171,11 +171,14 @@ C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Un
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Unity.Container.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Unity.Mvc5.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\WebGrease.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\System.Threading.Tasks.Extensions.dll
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Database.pdb
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Database.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.ModelDTO.pdb
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Model.pdb
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Model.dll.config
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Services.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Utilities.pdb
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\EntityFramework.xml
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\EntityFramework.SqlServer.xml
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
@@ -194,3 +197,8 @@ C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Mi
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.csproj.AssemblyReference.cache
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.csproj.CoreCompileInputs.cache
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.csproj.CopyComplete
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\obj\Debug\Inventory.MVC.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.ModelDTO.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Services.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.MVC\bin\Inventory.Utilities.dll.config

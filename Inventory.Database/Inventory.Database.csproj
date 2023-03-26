@@ -43,6 +43,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -66,6 +67,26 @@
     <Compile Include="Migrations\202303060435419_NewValidations.designer.cs">
       <DependentUpon>202303060435419_NewValidations.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202303261335314_Usertable.cs" />
+    <Compile Include="Migrations\202303261335314_Usertable.designer.cs">
+      <DependentUpon>202303261335314_Usertable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303261513429_DatatypeChanged.cs" />
+    <Compile Include="Migrations\202303261513429_DatatypeChanged.designer.cs">
+      <DependentUpon>202303261513429_DatatypeChanged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303261719151_RoleTable.cs" />
+    <Compile Include="Migrations\202303261719151_RoleTable.designer.cs">
+      <DependentUpon>202303261719151_RoleTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303261740231_RoleTableModified.cs" />
+    <Compile Include="Migrations\202303261740231_RoleTableModified.designer.cs">
+      <DependentUpon>202303261740231_RoleTableModified.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303261802585_RoleTableModifieds.cs" />
+    <Compile Include="Migrations\202303261802585_RoleTableModifieds.designer.cs">
+      <DependentUpon>202303261802585_RoleTableModifieds.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\Categoryrepository.cs" />
@@ -84,6 +105,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202303060435419_NewValidations.resx">
       <DependentUpon>202303060435419_NewValidations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303261335314_Usertable.resx">
+      <DependentUpon>202303261335314_Usertable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303261513429_DatatypeChanged.resx">
+      <DependentUpon>202303261513429_DatatypeChanged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303261719151_RoleTable.resx">
+      <DependentUpon>202303261719151_RoleTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303261740231_RoleTableModified.resx">
+      <DependentUpon>202303261740231_RoleTableModified.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303261802585_RoleTableModifieds.resx">
+      <DependentUpon>202303261802585_RoleTableModifieds.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
