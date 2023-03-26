@@ -1,0 +1,24 @@
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\Inventory.Model.dll.config
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\Inventory.Model.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\Inventory.Model.pdb
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.csproj.CopyComplete
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\Inventory.Model.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\Inventory.Model.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\Inventory.Model.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.xml
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.csproj.AssemblyReference.cache
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.csproj.CoreCompileInputs.cache
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.csproj.CopyComplete
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Model\obj\Debug\Inventory.Model.pdb

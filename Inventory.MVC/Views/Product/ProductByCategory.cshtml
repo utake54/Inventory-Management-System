@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Inventory.Model.Model.Products>
+
+@{
+    ViewBag.Title = "ProductByCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ProductByCategory</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddProduct")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductDescription)
+
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductPrice)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductPrice)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditProduct", new { id = item.ProductId }) |
+                @Html.ActionLink("Delete", "DeleteProduct", new { id = item.ProductId }) |
+                @Html.ActionLink("Details", "ProductDetails", new { id = item.ProductId })
+            </td>
+        </tr>
+    }
+
+</table>

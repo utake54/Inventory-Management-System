@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Inventory.Model.Model.Category>
+@{
+    ViewBag.Title = "CategoryList";
+
+}
+
+<h2>All Categories</h2>
+
+
+<input type="button" value="Add New Category" class="btn btn-success" onclick="window.location= '@Url.Action( "AddNewCategory", "Category")'" />
+<br />
+<h4>*Please Click on Category View Products</h4>
+<table class="table">
+
+    <tr>
+        <th>
+            Category Name
+        </th>
+        <th>
+
+        </th>
+        <th>
+
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(@item.CategoryName, "ProductByCategory", "Product", new { id = @item.CategoryId }, null)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditCategory", "Category", new { id = item.CategoryId }, null)
+
+                @Html.ActionLink("Delete", "DeleteCategory", "Category", new { id = item.CategoryId }, null)
+            </td>
+        </tr>
+
+    }
+
+</table>
+
+

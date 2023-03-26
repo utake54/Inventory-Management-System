@@ -1,0 +1,30 @@
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Services.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Services.pdb
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Database.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Model.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Database.pdb
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Database.dll.config
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Model.pdb
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Model.dll.config
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.AssemblyReference.cache
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.CopyComplete
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.dll
+C:\Users\Nimap\New folder\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Services.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Services.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Database.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Model.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\EntityFramework.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Database.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Database.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Model.pdb
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\Inventory.Model.dll.config
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\bin\Debug\EntityFramework.xml
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.AssemblyReference.cache
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.CoreCompileInputs.cache
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.csproj.CopyComplete
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.dll
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Services\obj\Debug\Inventory.Services.pdb
