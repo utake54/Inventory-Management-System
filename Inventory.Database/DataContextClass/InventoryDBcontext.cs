@@ -14,7 +14,9 @@ namespace Inventory.Database.DataContextClass
         public DbSet<Category> Categories { get; set; }
         public DbSet<Products> ProductTable { get; set; }
         public DbSet<User> UserTable { get; set; }
-        public DbSet<RoleMaster> UserRoleTable { get; set; }
+
+        public DbSet<UserRole> UserRoles { get; set; }
+
 
     }
 }

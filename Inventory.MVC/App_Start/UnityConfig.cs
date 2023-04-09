@@ -12,7 +12,7 @@ namespace Inventory.MVC
     {
         public static void RegisterComponents()
         {
-            var container = new UnityContainer();
+            var container = new UnityContainer();   
 
 
 

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Inventory.Model.Model.User>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";   
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AssignRoleToUser</title>
+</head>
+<body>
+    <p>
+    
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailId)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.MobileNo)
+            </th>
+            <th>IsActive</th>
+            <th>AssignRole</th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileNo)
+            </td>
+            
+            <td>
+                @Html.CheckBoxFor(modelItem => item.IsActive)
+                </td>
+            <td>
+                @Html.DropDownListFor(
+      model => item.RoleId, // Property to bind the selected value to
+      new SelectList("Admin","Customer"), // List of select items
+      "-- Select a Role --", // Placeholder text
+      new { @class = "form-control" } // HTML attributes
+  )
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

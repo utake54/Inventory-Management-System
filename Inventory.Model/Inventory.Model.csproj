@@ -54,8 +54,8 @@
   <ItemGroup>
     <Compile Include="Model\Category.cs" />
     <Compile Include="Model\Products.cs" />
-    <Compile Include="Model\RoleMaster.cs" />
     <Compile Include="Model\User.cs" />
+    <Compile Include="Model\UserRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -41,3 +41,7 @@ C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\o
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.RoleTable.resources
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.RoleTableModified.resources
 C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.RoleTableModifieds.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.Default.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.Default1.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.Default2.resources
+C:\Users\utake\OneDrive\Documents\InventoryManagementSystem\Inventory.Database\obj\Debug\Inventory.Database.Migrations.Default3.resources

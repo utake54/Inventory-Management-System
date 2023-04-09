@@ -1,4 +1,4 @@
-﻿namespace Inventory.Database.Migrations
+﻿    namespace Inventory.Database.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

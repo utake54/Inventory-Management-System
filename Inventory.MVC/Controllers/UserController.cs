@@ -36,5 +36,11 @@ namespace Inventory.MVC.Controllers
                 return View();
             }
         }
+
+        public ActionResult AssignRoleToUser()
+        {
+            var allUsers = db.UserTable.ToList();
+            return View(allUsers);
+        }
     }
 }
